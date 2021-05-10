@@ -8,4 +8,4 @@ This repository is to host the notebook that i did for this module during Year 2
 1. The notebook can be found at [here](./Assignment_1.ipynb)
 
 # Contributors
-- Me.
+- Ng Zhan Kang (Me)
